@@ -4,7 +4,7 @@
 - Simple tabs with tours.
 - The application can be tested from the [link](https://s1een.github.io/react-tours-app/ "link").
 
-# React Menu App
+# React Tours App
 
 ![](https://miro.medium.com/max/1000/0*aHvK7Rbt_Dv74mWq.png)
 
